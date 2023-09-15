@@ -2,5 +2,5 @@
 #include "c3.h"
 int main(){
     p();
-    printf("haha");
+    printf("haha,zlx bendan");
 }
